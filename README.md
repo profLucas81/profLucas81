@@ -2,6 +2,9 @@
 - 👀 Sou professor da Escola Estadual Dona Maria Izabel Cruz Pimentel 
 - 🌱 Leciono a disciplina de Tecnologia
 
+### Você pode entrar em contato comigo 📬 
+
+lucastomiati@hotmail.com
 
 <!---
 profLucas81/profLucas81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
